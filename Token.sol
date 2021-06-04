@@ -1,7 +1,7 @@
 pragma solidity ^0.4.25;
 
 // ----------------------------------------------------------------------------
-// 'ZOX' Token contract
+// 'Kite' Token contract
 //
 // Symbol      : KIT
 // Name        : Kite Coin
